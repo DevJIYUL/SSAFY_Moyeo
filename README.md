@@ -121,9 +121,14 @@
 - MySQL
 
 ## 시스템 구조도
-
-
 ![structure](docs/img/structure.png)
+
+## 브랜치
+
+- [batch](https://github.com/DevJIYUL/SSAFY_Moyeo/tree/batch) 
+- [sender](https://github.com/DevJIYUL/SSAFY_Moyeo/tree/sender)
+- [notification](https://github.com/DevJIYUL/SSAFY_Moyeo/tree/notification)
+
 
 ## 협업 환경 및 툴
 
